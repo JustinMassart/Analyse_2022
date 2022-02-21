@@ -1,0 +1,127 @@
+.utick_container {
+  display: grid;
+  gap: 1rem;
+  box-sizing: border-box;
+  justify-items: center;
+  padding: 1rem;
+  color: #000;
+  /* align-items: start;
+    place-items: center; */
+}
+
+@media (min-width: 900px) {
+  .utick_container {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.utick-event > a {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.utick-event__image {
+}
+
+.utick-event__image img {
+  width: 100%;
+}
+
+.utick-event__body {
+  padding: 1rem;
+  background-color: #fff;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.utick-event__body h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.2em;
+}
+
+.utick-event__footer {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid rgb(156, 156, 156);
+  margin: 1rem 0 0 0;
+  padding: 1rem 0 0 0;
+}
+
+.utick-single-event {
+  display: grid;
+  box-sizing: border-box;
+  justify-content: space-between;
+  align-items: stretch;
+  padding: 1rem;
+  color: #000;
+}
+@media (min-width: 900px) {
+  .utick-single-event {
+    grid-template-columns: 35% 60%;
+  }
+}
+
+.utick-single-event p {
+  margin-bottom: 0.7em;
+}
+
+.utick-btn {
+  padding: 1rem 1.5rem;
+  background-color: lightblue;
+  opacity: 1;
+  transition: 0.2s all ease-in;
+  display: inline-block;
+}
+
+.utick-btn:hover {
+  opacity: 0.7;
+}
+
+.form-utick {
+  margin: 3rem 0;
+}
+
+.utick_warning {
+  border-left: 5px solid firebrick;
+  background-color: rgba(178, 34, 34, 0.1);
+  color: firebrick;
+  padding: 1rem;
+}
+
+.utick-reservation {
+
+}
+.utick-reservation > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.utick-reservation a {
+  display: inline-block;
+  padding: .35rem 1rem .5rem 1rem;
+  background-color: #cc4b37;;
+  color: #fff;
+  transition: 0.2s all ease-in;
+  border-radius: 5px;
+}
+
+.utick-reservation a:hover {
+  background-color: #a53b2a;
+  color: #fefefe;
+}
+.utick-alert {
+  border-left: 5px solid firebrick;
+  background-color: #fff;
+  margin: 3rem 0 1rem 0;
+  padding: 1rem;
+}
+table,
+tr,
+td {
+  border-collapse: collapse;
+}

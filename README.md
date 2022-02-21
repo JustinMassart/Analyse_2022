@@ -1,5 +1,11 @@
 # Analyse - Design Web
 
+## Liens des refontes
+-
+-
+-
+-
+
 ## CC Welkenraedt :
 
 https://www.ccwelkenraedt.be/
@@ -273,6 +279,8 @@ Total : 10/26 = 38%
 
 ![](img/headingsmap1.png)
 ![](img/headingsmap2.png)
+![](img/hdmps1.png)
+![](img/hdmps2.png)
 
 ### GTMetrix
 
