@@ -299,13 +299,13 @@ Total : 10/26 = 38%
 
 ### GTMetrix
 
-![](img/GTMetrix - Page d'accueil 1.png)
-![](img/GTMetrix - Page d'accueil 2.png)
-![](img/GTMetrix - Page d'accueil 3.png)
-![](img/GTMetrix - Page d'accueil 4.png)
-![](img/GTMetrix - Page de Contact.png)
-![](img/GTMetrix - Page de Equipe.png)
-![](img/GTMetrix - Page de Theatre.png)
+![](img/GTMetrix-Pagedaccueil1.png)
+![](img/GTMetrix-Pagedaccueil2.png)
+![](img/GTMetrix-Pagedaccueil3.png)
+![](img/GTMetrix-Pagedaccueil4.png)
+![](img/GTMetrix-PagedeContact.png)
+![](img/GTMetrix-PagedeEquipe.png)
+![](img/GTMetrix-PagedeTheatre.png)
 
 ### Carbon Calculator
 
