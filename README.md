@@ -1,8 +1,72 @@
 # Analyse - Design Web
 
-### CC Welkenraedt :
+## CC Welkenraedt :
 
 https://www.ccwelkenraedt.be/
+
+## Présentation du site
+
+Site présentant tous les événements qui se déroulent dans le Centre culturel de Welkenraedt (théâtre, cinéma, expositions,...)
+
+## Objectifs du site
+
+Vendre des places pour les événements
+
+## Public cible
+
+- Toute personne s'intéressant à la culture
+- Les écoles
+
+---
+
+### Utilisateur 1
+Prénom : Sarah
+Âge : 26
+Fonction : Travaille dans une entreprise d'analyse en biologie moléculaire
+Elle navigue souvent sur le web sur son ordinateur mais n'a jamais fréquenté ce site
+Technologie : elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.
+Elle a réalisé le test sur smartphone
+
+### Utilisateurs 2
+nom : Yasemin Karadeniz
+age : 23 ans
+Etude : étudiante en Techniques Graphiques orientation 3D
+
+### Utilisateurs 3
+Prénom : Martine Lefrançois
+Âge : 54 ans
+Fonction : Claire de Notaire
+
+### Utilisateurs 4
+Nom: Droeven Sonia
+Âge: 53 ans
+Métier: Enseignante primaire 1er 2eme
+
+### Scénarios
+
+1. Votre soeur fête son anniversaire le 27 mars, pour cette évènement vous aimeriez l'inviter voir une pièce de théatre qui se déroule au centre culturel de Welkenraedt.
+   Vous voudriez donc réserver 2 places de spectacle aux alentours de cette date.
+2. Après le spectacle, votre soeur se rend compte qu'elle a oublié son téléphone, vous voulez donc contacter le centre culturel pour savoir s'ils ne l'ont pas mis de côté
+   (la salle en question est "Pierre Raspat", qui est la salle pour spectacle).
+
+### Problèmes des utilisateurs :
+- Pas de jour de la semaine pour l'événement (1)
+- Réservation "prév.J/S" = ?? => pas d'indication (1)
+- Réservation : place (case colorée?) => légende
+- Mettre effet hover pour les jours où il y a un événement dans le calendrier
+- Contact : pas de formulaire de contact mais un formulaire pour périodique
+- Adresse mail et téléphone non cliquable :/
+- Pas de mise en évidence pour le lien du menu lorsqu'on est sur la page
+
+### Problèmes que nous avons remarqués en plus
+- Fil d'arianne > 2e lien pas bon (scène)
+- Triangle dans menu reseemblant à la flèche menu déroulant alors que c'est juste une décoration
+- Menu nav > onglet > pas de hover pour mettre
+
+
+## Tests Utilisateurs
+
+---
 
 ## Test d'utilisabilité d'Amélie Boucher
 
@@ -228,7 +292,21 @@ Total : 10/26 = 38%
 
 ---  
 
-### Test sur le site de GTMetrix
+### HeadingsMap
+
+![](img/headingsmap1.png)
+![](img/headingsmap2.png)
+
+### GTMetrix
+
+### Carbon Calculator
+
+### Microdata
+![](img/microdata1.png)
+![](img/microdata2.png)
+
+### Responsive
+Oui :D
 
 
 ---
