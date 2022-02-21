@@ -53,18 +53,19 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 ### Problèmes des utilisateurs :
 
 - Pas de jour de la semaine pour l'événement (1)
-- Réservation "prév.J/S" = ?? => pas d'indication (1)
+- Réservation "prév.J/S" = ?? => pas d'indication (indication en infobulles) (1)
 - Réservation : place (case colorée?) => légende
 - Mettre effet hover pour les jours où il y a un événement dans le calendrier
-- Contact : pas de formulaire de contact mais un formulaire pour périodique
+- Contact : pas de formulaire de contact, mais un formulaire pour newsletter
 - Adresse mail et téléphone non cliquable :/
 - Pas de mise en évidence pour le lien du menu lorsqu'on est sur la page
 
 ### Problèmes que nous avons remarqués en plus
 
-- Fil d'arianne > 2e lien pas bon (scène)
+- Fil d'arianne > 2e lien pas bon (places)
 - Triangle dans menu reseemblant à la flèche menu déroulant alors que c'est juste une décoration
 - Menu nav > onglet > pas de hover pour mettre
+- Certains liens de le slider au dessus du footer ne fonctionne pas/ne redirige pas ou ne sont pas à jours.
 
 ---
 
@@ -86,7 +87,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 ### Organisation visuelle : la page est bien rangée.
 
-#### Eviter le trop-plein d'information.
+#### Éviter le trop-plein d'information.
 
 - OK, peu de texte sur l'ensemble du site.
 
@@ -160,7 +161,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 - OK
 
-#### L'ordinateur répond aux actions de l'interaute.
+#### L'ordinateur répond aux actions de l'internaute.
 
 - Feedback lors des formulaires si on ne complète pas tous les champs.
 
@@ -212,7 +213,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 ### Rapidité : l'internaute ne perd pas son temps.
 
-#### Faciliter les interractions.
+#### Faciliter les interactions.
 
 - Padding ok sauf exception. Hover trop faible.
 
