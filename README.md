@@ -20,6 +20,8 @@ Vendre des places pour les événements
 
 ---
 
+## Tests Utilisateurs
+
 ### Utilisateur 1
 
 Prénom : Sarah Âge : 26 Fonction : Travaille dans une entreprise d'analyse en biologie moléculaire Elle navigue souvent
@@ -64,8 +66,6 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 - Triangle dans menu reseemblant à la flèche menu déroulant alors que c'est juste une décoration
 - Menu nav > onglet > pas de hover pour mettre
 
-## Tests Utilisateurs
-
 ---
 
 ## Test d'utilisabilité d'Amélie Boucher
@@ -74,48 +74,41 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Les regroupements sont logiques.
 
-- L'architecture est plutôt bien rangée, avec des exceptions comme l'onglet Liens par exemple. On arrive bien a trouver
-  ce que l'on cherche. Chaque rubriques contient bien des infos sur le titre de la rubrique.
+- L'architecture est plutôt bien rangée. Chaques rubriques contient bien des infos sur le titre de la rubrique.
 
 #### La structuration met en avant les contenus clés.
 
-- La structuration ne met pas en avant les contenus clés, certains liens et infos pourraient être dans d'autres
-  sections.
+- OK
 
 #### Les menus aident l'internaute à naviguer dans les contenus.
 
-- Certains menus ne sont pas expressifs, une fonctionnalité comme l'explication du mot au survol ou autre aurait été
-  sympa.
+- OK
 
 ### Organisation visuelle : la page est bien rangée.
 
 #### Eviter le trop-plein d'information.
 
-- Sur une majorité de page il n'y a pas trop d'infos inutiles, mais certaines pages n'ont même pas de contenu.
+- OK, peu de texte sur l'ensemble du site.
 
-#### Réduire la quantioté de mots sur les pages navigantes.
+#### Réduire la quantité de mots sur les pages navigantes.
 
-- Certains pages (news, accueil) peuvent avoir des quantités de texte réduites, on comprend déjà où on va sans la
-  deuxième moitié de phrase.
+- OK
 
 #### N'afficher que les principaux éléments de navigation et d'interaction.
 
-- Il n'y a pas de surplus d'éléments de navigation et d'interaction. Sauf pour le cv vidéo qui n'est pas dans sa section
-  et peut-être séparer les deux en cv écrit et vidéo.
+- OK
 
 #### Différencier les quantités d'informations réelles et perçues.
 
-- La quantité d'information réelle et perçue n'est pas gênante lors de la navigation.
+- La quantité d'information est bien gérée.
 
 #### Les animations augmentent la charge informationnelle.
 
-- Les animations des slider ne fonctionnent pas en même temps donc pas de gêne. Celui du dessus est en boucle par
-  contre. Celui du bas fonctionne si la souris est dessus.
+- Les deux sliders s'arrêtent lors du survole du curseur.
 
 #### Démultiplier la valeur du pixel carré.
 
-- Il y a de l'additionnement d'information lors du survol et les boutons des sliders pour changer d'info. (Suivant les
-  machines ils fonctionnent différemment).
+- Il y a les boutons des sliders pour changer d'info.
 
 ### Cohérence : le site capitalise sur l'apprentissage interne.
 
@@ -125,47 +118,47 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Les appellations sont cohérentes.
 
-- Les appellations sont cohérentes sauf pour l'onglet Lien>>
+- Les appellations sont cohérentes.
 
 #### Les formats de présentation sont cohérents.
 
-- Les style sont les mêmes sauf pour les pages employeurs et espace jeune.
+- Les styles sont les mêmes sur toutes les pages.
 
 #### Les interactions sont cohérentes.
 
-- Idem pour les interractions, dans les formations les boîtes qui apparaissent n'ont pas toutes le même style.
+- Idem.
 
 ### Conventions : le site capitalise sur l'apprentissage externe.
 
 #### Respecter les conventions de localisations.
 
-- Conventions respectées sauf pour la barre de recherche.
+- Conventions respectées.
 
 #### Respecter les conventions de vocabulaire.
 
-- Le vocabulaire est +/-.
+- Le vocabulaire est bon.
 
 ### Information : le site informe internaute et lui répond.
 
 #### Ne soyez pas avare d'informations.
 
-- Suivant les pages, soit il n'y a pas contenu soit il y en a et il est correct.
+- Peu de texte finalement, mais ça n'est pas gênant.
 
 #### Donner de l'information générale.
 
-- Beaucoup trop de pages sont sans contenu.
+- OK, lien cliquable pour avoir plus d'infos.
 
 #### Donner de l'information pour faciliter la navigation.
 
-- Navigation moyenne, plusieurs liens inutiles.
+- Bonne navigation.
 
 #### Donner de l'information ponctuelle.
 
-- Le site informe bien quand on envoie un mail.
+- Pas de formulaire de contact. Le formulaire de newsletter informe bien de l'envoi validé et des erreurs.
 
 #### Informez, mais au bon moment.
 
-- Ne s'applique pas.
+- OK
 
 #### L'ordinateur répond aux actions de l'interaute.
 
@@ -173,34 +166,29 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Visibilité du feedback.
 
-- Il s'affiche en message d'erreur.
+- Il s'affiche en message d'erreur ou en message validé.
 
 ### Compréhension : les mots et symboles sont choisis minutieusement.
 
 #### Le vocabulaire doit être compréhensible.
 
-- Mots, titre, mal choisis (abbr auraient été sympa).
+- Bon vocabulaire
 
 #### Les symboles de codes doivent être compréhensibles.
 
-- Les moins : symbole de l'onglet lien est mal choisi, celui du slider avec les flèches.
-
-- Les plus : recherche loupe, vidéo play, pagination.
+- Triangles dans la navigation, on se demande quoi.
 
 ### Assistance : le site aide et dirige l'internaute.
 
-- Il ne dirige pas l'utilisateur
-
 #### Call-To-Action.
 
-- Pas bcp de CTA
+- CTA corrects
 
 ### Gestion des erreurs : Le site prévoit que l'internaute se trompe.
 
 #### Éviter les erreurs grâce à l'indication des champs obligatoires.
 
-- Formulaire, champs essentiels pas olbigatoires.
-- Gestion php mais champs obligatoire pas mis en html.
+- Formulaire, champs essentiels sont obligatoires. On peut mettre n'importe quoi dans le nom, prénom, adresse.
 
 #### Éviter les erreurs grâce aux libellés et légendes des champs.
 
@@ -208,12 +196,11 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Éviter les erreurs grâce à la taille des champs.
 
-- La taille est correcte. Text-area pété.
+- La taille est correcte.
 
 #### Faciliter le repérage des erreurs.
 
 - texte rouge, erreur bien expliquée. Champs rouge aurait été sympa.
-- (On peut mettre n'importe quoi dans le champ 'nom'.)
 
 #### Faire preuve de courtoisie dans les messages d'erreurs.
 
@@ -223,41 +210,30 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 - Corrige simplement.
 
-#### Faciliter la correction grâce aux mécanismes de gestion des erreurs.
-
-- Pas de mécanisme sauf pour le champ obligatoire.
-
 ### Rapidité : l'internaute ne perd pas son temps.
 
 #### Faciliter les interractions.
 
-- Suffisament grand, padding appliqué, effet de hover, opacité de texte, background devient plus foncé.
+- Padding ok sauf exception. Hover trop faible.
 
 ### Liberté : c'est l'internaute qui commande.
 
 #### Respectez les contrôles utilisateur conventionnels.
 
-- Fonctionnalités du navigateur fonctionnelles.
+- Fonctionnalités du navigateur fonctionnelles sauf certains navigateurs sur certains OS.
 
 #### Fuyez les actions au rollover.
 
-- Il y a du rollover avec effet hover
-
-#### Flexibilité des actions utilisateur.
-
-- Pas de flexibilité
+- Il y a du rollover sans hover.
 
 ### Accessibilité : un site facile d'accès pour tous.
 
-- pas pour mal-voyant.
-- TAB fonctionne à moitié.
-- pas responsive.
-- script en masse, iframe, pdf reader, Vidéo sans sous-titres.
+- VoiceOver de MacOS fonctionne.
+- TAB fonctionne à moitié. (suivant navigateur et OS)
 
 ### Satisfaction de votre internaute
 
-- Satisfaction moyenne (Impression de perdre un peu son temps car le site redirige beaucoup vers d'autres sites et que
-  beaucoup trop de pages sont inutiles).
+- On arrive à faire ce que l'on veut.
 
 ---
 
