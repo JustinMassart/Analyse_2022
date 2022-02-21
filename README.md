@@ -142,7 +142,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Ne soyez pas avare d'informations.
 
-- Peu de texte finalement, mais ça n'est pas gênant.
+- Peu de texte finalement, mais ça n'est pas gênant. Manque les dates dans la réservation des tickets.
 
 #### Donner de l'information générale.
 
