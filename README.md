@@ -35,15 +35,15 @@ sur le web sur son ordinateur mais n'a jamais fréquenté ce site Technologie : 
 pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle
 n'avait jamais visité ce site avant. Elle a réalisé le test sur smartphone
 
-### Utilisateurs 2
+### Utilisateur 2
 
 nom : Yasemin Karadeniz age : 23 ans Etude : étudiante en Techniques Graphiques orientation 3D
 
-### Utilisateurs 3
+### Utilisateur 3
 
 Prénom : Martine Lefrançois Âge : 54 ans Fonction : Claire de Notaire
 
-### Utilisateurs 4
+### Utilisateur 4
 
 Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
