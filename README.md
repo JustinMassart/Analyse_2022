@@ -31,11 +31,6 @@ Vendre des places pour les événements
 
 ### Utilisateur 1
 
-<<<<<<< HEAD
-Fonction : Travaille dans une entreprise d'analyse en biologie moléculaire Elle navigue souvent sur le web sur son ordinateur mais n'a jamais fréquenté ce site
-
-Technologie : elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.
-=======
 Prénom : Sarah
 
 Âge : 26
@@ -46,7 +41,6 @@ sur le web sur son ordinateur mais n'a jamais fréquenté ce site
 Technologie : elle a l'habitude d'utiliser un ordinateur
 pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle
 n'avait jamais visité ce site avant.
->>>>>>> 1d41748078e247190a23a0fe6df89372291cc361
 
 Elle a réalisé le test sur smartphone
 
