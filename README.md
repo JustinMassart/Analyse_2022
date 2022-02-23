@@ -31,10 +31,10 @@ Vendre des places pour les événements
 
 ### Utilisateur 1
 
-Prénom : Sarah Âge : 26 Fonction : Travaille dans une entreprise d'analyse en biologie moléculaire Elle navigue souvent
-sur le web sur son ordinateur mais n'a jamais fréquenté ce site Technologie : elle a l'habitude d'utiliser un ordinateur
+Prénom : Sarah\ Âge : 26\ Fonction : Travaille dans une entreprise d'analyse en biologie moléculaire Elle navigue souvent
+sur le web sur son ordinateur mais n'a jamais fréquenté ce site\ Technologie : elle a l'habitude d'utiliser un ordinateur
 pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle
-n'avait jamais visité ce site avant. Elle a réalisé le test sur smartphone
+n'avait jamais visité ce site avant.\ Elle a réalisé le test sur smartphone
 
 ### Utilisateur 2
 
