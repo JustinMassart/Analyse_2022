@@ -31,6 +31,11 @@ Vendre des places pour les événements
 
 ### Utilisateur 1
 
+<<<<<<< HEAD
+Fonction : Travaille dans une entreprise d'analyse en biologie moléculaire Elle navigue souvent sur le web sur son ordinateur mais n'a jamais fréquenté ce site
+
+Technologie : elle a l'habitude d'utiliser un ordinateur pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle n'avait jamais visité ce site avant.
+=======
 Prénom : Sarah
 
 Âge : 26
@@ -41,6 +46,7 @@ sur le web sur son ordinateur mais n'a jamais fréquenté ce site
 Technologie : elle a l'habitude d'utiliser un ordinateur
 pour le travail. Durant son temps libre, elle utilise beaucoup son téléphone et navigue tous les jours sur le web. Elle
 n'avait jamais visité ce site avant.
+>>>>>>> 1d41748078e247190a23a0fe6df89372291cc361
 
 Elle a réalisé le test sur smartphone
 
@@ -122,13 +128,13 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 - Les deux sliders s'arrêtent lors du survole du curseur.
 
-#### Démultiplier la valeur du pixel carré.
+#### Démultiplier la valeur du pixel carré. (Rendre des boutons avec plusieurs fonctions par ex)
 
-- Il y a les boutons des sliders pour changer d'info.
+- Il y a les boutons des sliders pour changer l'élément du slider.
 
 ### Cohérence : le site capitalise sur l'apprentissage interne.
 
-#### Les localisations sont cohérentes.
+#### Les localisations sont cohérentes. (Localisation du contenu)
 
 - La localisation est cohérente, les objets ne changent pas de place.
 
@@ -136,7 +142,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 - Les appellations sont cohérentes.
 
-#### Les formats de présentation sont cohérents.
+#### Les formats de présentation sont cohérents. (Styles des pages)
 
 - Les styles sont les mêmes sur toutes les pages.
 
@@ -146,7 +152,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 ### Conventions : le site capitalise sur l'apprentissage externe.
 
-#### Respecter les conventions de localisations.
+#### Respecter les conventions de localisations. (Localisation des éléments, par ex : barre de recherche)
 
 - Conventions respectées.
 
@@ -158,11 +164,12 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Ne soyez pas avare d'informations.
 
-- Peu de texte finalement, mais ça n'est pas gênant. Manque les dates dans la réservation des tickets.
+- Peu de texte finalement, mais ça n'est pas gênant l'essentiel est là. Manque les dates dans la réservation des
+  tickets.
 
 #### Donner de l'information générale.
 
-- OK, lien cliquable pour avoir plus d'infos.
+- OK, lien cliquable pour avoir plus d'infos. (mais 'PLUF D’INFOS' à la place de 'PLUS D’INFOS')
 
 #### Donner de l'information pour faciliter la navigation.
 
@@ -216,7 +223,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Faciliter le repérage des erreurs.
 
-- texte rouge, erreur bien expliquée. Champs rouge aurait été sympa.
+- texte rouge, erreur bien expliquée. Champs rouge aurait été sympa. MAIS peut se superposer
 
 #### Faire preuve de courtoisie dans les messages d'erreurs.
 
@@ -230,7 +237,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 #### Faciliter les interactions.
 
-- Padding ok sauf exception. Hover trop faible.
+- Padding ok sauf exception (liens des réseaux sous le calendrier). Hover trop faible.
 
 ### Liberté : c'est l'internaute qui commande.
 
@@ -238,7 +245,7 @@ Nom: Droeven Sonia Âge: 53 ans Métier: Enseignante primaire 1er 2eme
 
 - Fonctionnalités du navigateur fonctionnelles sauf certains navigateurs sur certains OS.
 
-#### Fuyez les actions au rollover.
+#### Fuyez les actions au rollover. (Panneaux du nav)
 
 - Il y a du rollover sans hover.
 
